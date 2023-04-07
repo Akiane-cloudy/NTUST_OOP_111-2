@@ -1,0 +1,56 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week04_Framework",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Week04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week04-Debug-d392b3c3c529ae23de81.json",
+					"name" : "Week04",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/NTUST CSIE/111-2/NTUST-OOP-111-2/Dungeon/week04/Week04_Framework/out/build/x64-Debug",
+		"source" : "E:/NTUST CSIE/111-2/NTUST-OOP-111-2/Dungeon/week04/Week04_Framework"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

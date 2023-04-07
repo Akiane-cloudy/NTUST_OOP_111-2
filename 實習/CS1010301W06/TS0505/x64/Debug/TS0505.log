@@ -1,0 +1,5 @@
+﻿  Point.cpp
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W06\TS0505\Point.cpp(1,10): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W06\TS0505\Point.cpp(31,22): warning C4244: 'return': 將 'const float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W06\TS0505\Point.cpp(36,22): warning C4244: 'return': 將 'const float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS0505.vcxproj -> E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W06\x64\Debug\TS0505.exe

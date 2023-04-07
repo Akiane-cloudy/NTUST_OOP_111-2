@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "本機電腦": [
+      "Week01_Framework\\out\\build\\x64-Debug",
+      "Week01_Framework\\out\\install\\x64-Debug"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W04\TS0304\Source.cpp(17,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS0304.vcxproj -> E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W04\x64\Debug\TS0304.exe
