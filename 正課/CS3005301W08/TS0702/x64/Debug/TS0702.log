@@ -1,0 +1,4 @@
+﻿  Atoi.cpp
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W08\TS0702\Atoi.cpp(26,84): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W08\TS0702\Atoi.cpp(54,42): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS0702.vcxproj -> E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W08\x64\Debug\TS0702.exe
