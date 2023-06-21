@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W11\TS0901\main.cpp(26,60): warning C4244: '=': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS0901.vcxproj -> E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W11\x64\Debug\TS0901.exe

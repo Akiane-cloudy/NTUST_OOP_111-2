@@ -1,0 +1,14 @@
+﻿  main.cpp
+  VecNf.cpp
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W10\TS0604\VecNf.cpp(60,31): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W10\TS0604\VecNf.cpp(108,68): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W10\TS0604\VecNf.cpp(108,68): warning C4267: '正在初始化': 將 'size_t' 轉換為 'const int'，資料可能遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W10\TS0604\VecNf.cpp(113,32): warning C4244: '=': 將 '_Ty' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W10\TS0604\VecNf.cpp(152,68): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W10\TS0604\VecNf.cpp(152,68): warning C4267: '正在初始化': 將 'size_t' 轉換為 'const int'，資料可能遺失
+  正在產生程式碼...
+  TS0604.vcxproj -> E:\NTUST CSIE\111-2\NTUST-OOP-111-2\實習\CS1010301W10\x64\Debug\TS0604.exe

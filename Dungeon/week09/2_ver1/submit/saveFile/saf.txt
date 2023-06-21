@@ -1,0 +1,27 @@
+Canva:
+(row,column): 8 8
+OOOOOOOO
+O   T  O
+OT     O
+O H    O
+O    C O
+O      O
+O      O
+OOOOOOOO
+
+Hero:
+Pos(x,y): 2 3
+Hp: 100
+Lv: 1
+Exp: 0
+Exp to next level: 15
+
+Creature:
+Pos(x,y): 5 4
+
+Triggers:
+Amounts: 2
+Pos(x,y):
+triggers1: 1 2
+triggers2: 4 1
+

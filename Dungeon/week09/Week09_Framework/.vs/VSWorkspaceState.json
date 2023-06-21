@@ -1,0 +1,15 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "本機電腦": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\out",
+    "\\Week09"
+  ],
+  "SelectedNode": "\\Week09\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}

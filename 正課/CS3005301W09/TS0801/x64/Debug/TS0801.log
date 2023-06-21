@@ -1,0 +1,8 @@
+﻿  Polynomial.cpp
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W09\TS0801\Polynomial.cpp(56,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W09\TS0801\Polynomial.cpp(62,42): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W09\TS0801\Polynomial.cpp(181,76): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W09\TS0801\Polynomial.cpp(181,76): warning C4267: '正在初始化': 將 'size_t' 轉換為 'const int'，資料可能遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W09\TS0801\Polynomial.cpp(182,76): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W09\TS0801\Polynomial.cpp(182,76): warning C4267: '正在初始化': 將 'size_t' 轉換為 'const int'，資料可能遺失
+  TS0801.vcxproj -> E:\NTUST CSIE\111-2\NTUST-OOP-111-2\正課\CS3005301W09\x64\Debug\TS0801.exe
